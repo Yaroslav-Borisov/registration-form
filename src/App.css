@@ -1,0 +1,17 @@
+body {
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  background-color: #cc36cc;
+}
+
+#root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+* {
+  box-sizing: border-box;
+}
